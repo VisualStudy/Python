@@ -18,3 +18,9 @@ print("안녕, 파이썬")
 ```output
 안녕, 파이썬
 ```
+## f문자열
+
+```python
+dog_name = "라"
+print(f"MY dog's name is {dog_name}. " + dog_name + " is cute.")
+```
