@@ -48,3 +48,15 @@ say_hello("바")
 ```output
 hello 바
 ```
+
+### 매개 변수가 두 개인 함수
+
+```python
+def describe_yourself(name, age):
+    print(f"My name is {name}. My age is {age}")
+
+describe_yourself("비스", 0)
+```
+```output 
+My name is 비스. My age is 0
+```
