@@ -24,3 +24,15 @@ print("안녕, 파이썬")
 dog_name = "라"
 print(f"MY dog's name is {dog_name}. " + dog_name + " is cute.")
 ```
+## 함수
+
+```python
+def say_hello():
+    print("hello")
+
+say_hello()
+```
+
+```output
+hello
+```
