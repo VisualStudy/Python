@@ -36,3 +36,15 @@ say_hello()
 ```output
 hello
 ```
+### 매개 변수가 있는 함수
+
+```python
+def say_hello(name):
+    print(f"hello {name}")
+
+say_hello("바")
+```
+
+```output
+hello 바
+```
