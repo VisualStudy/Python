@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>if_else_statement.py</StartupFile>
+    <StartupFile>function_test.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="function_test.py" />
     <Compile Include="if_else_statement.py" />
     <Compile Include="if_statement.py" />
     <Compile Include="lists.py" />
