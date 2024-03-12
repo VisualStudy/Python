@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>square_number.py</StartupFile>
+    <StartupFile>range.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="lists.py" />
     <Compile Include="loop.py" />
+    <Compile Include="range.py" />
     <Compile Include="return_value.py" />
     <Compile Include="Python.py" />
     <Compile Include="square_number.py" />
