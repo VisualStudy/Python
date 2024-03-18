@@ -5,8 +5,6 @@ def format_ham(ham):
         return f"{ham.title()} (Free)"
     else:
         return f"{ham.title()} ($1 Extra)"
-    
-
 
 def print_menu(hams):
     print("Welcome to visual studyria")
