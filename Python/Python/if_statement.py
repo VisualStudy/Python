@@ -6,4 +6,3 @@ for i in numbers:
         numbers_greater_than_seven.append(i)
 
 print(numbers_greater_than_seven)
-
