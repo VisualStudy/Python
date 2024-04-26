@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>function_test.py</StartupFile>
+    <StartupFile>Algorithms\sum_algorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\sum_algorithm.py" />
     <Compile Include="function_test.py" />
     <Compile Include="if_else_statement.py" />
     <Compile Include="if_statement.py" />
@@ -34,6 +35,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Functions\" />
+    <Folder Include="Algorithms\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
