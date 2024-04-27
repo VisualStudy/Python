@@ -25,6 +25,7 @@
     <Compile Include="Algorithms\sum_algorithm_even.py" />
     <Compile Include="Algorithms\sum_algorithm.py" />
     <Compile Include="function_test.py" />
+    <Compile Include="fundamental\bool.py" />
     <Compile Include="fundamental\print.py" />
     <Compile Include="fundamental\variable.py" />
     <Compile Include="fundamental\variable_reset.py" />
