@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fundamental\sum_sub.py</StartupFile>
+    <StartupFile>fundamental\sum_sub_declare.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +35,7 @@
       <Publish>True</Publish>
     </Compile>
     <Compile Include="fundamental\sum_sub.py" />
+    <Compile Include="fundamental\sum_sub_declare.py" />
     <Compile Include="fundamental\type_check.py" />
     <Compile Include="fundamental\type_convert.py" />
     <Compile Include="fundamental\variable.py" />
