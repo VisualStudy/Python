@@ -29,6 +29,7 @@
     <Compile Include="function_test.py" />
     <Compile Include="fundamental\bool.py" />
     <Compile Include="fundamental\data_input.py" />
+    <Compile Include="fundamental\data_input_convert.py" />
     <Compile Include="fundamental\data_type.py" />
     <Compile Include="fundamental\print.py" />
     <Compile Include="fundamental\type_check.py" />
