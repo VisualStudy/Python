@@ -1,3 +1,2 @@
-print('insert data please.')
-hello_data = input()
+hello_data = input('insert data please :  ')
 print(hello_data)
