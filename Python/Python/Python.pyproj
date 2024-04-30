@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fundamental\data_input_convert.py</StartupFile>
+    <StartupFile>fundamental\sum_sub.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,7 +31,10 @@
     <Compile Include="fundamental\data_input.py" />
     <Compile Include="fundamental\data_input_convert.py" />
     <Compile Include="fundamental\data_type.py" />
-    <Compile Include="fundamental\print.py" />
+    <Compile Include="fundamental\print.py">
+      <Publish>True</Publish>
+    </Compile>
+    <Compile Include="fundamental\sum_sub.py" />
     <Compile Include="fundamental\type_check.py" />
     <Compile Include="fundamental\type_convert.py" />
     <Compile Include="fundamental\variable.py" />
