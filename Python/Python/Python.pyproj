@@ -31,6 +31,7 @@
     <Compile Include="fundamental\data_input.py" />
     <Compile Include="fundamental\data_input_convert.py" />
     <Compile Include="fundamental\data_type.py" />
+    <Compile Include="fundamental\multiple_division.py" />
     <Compile Include="fundamental\print.py">
       <Publish>True</Publish>
     </Compile>
