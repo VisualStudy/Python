@@ -11,6 +11,7 @@ if yourAlarm == 1:
     print('')
     print('더 주무시겠습니까?')
     moreSleep = int(input('1) YES 2) NO :  '))
+    
     if moreSleep == 1:
         print('당신은 다시 잠에 듭니다...')
         print('시간이 흐릅니다...')
@@ -19,3 +20,9 @@ if yourAlarm == 1:
         print('시간이...?')
         print('저런! 너무 오래 자서 오전 11시가 되었습니다!')
         print('GAME OVER')
+    
+    elif moreSleep == 2:
+        print('일어난 김에 활동하기를 선택하셨습니다.')
+        print('')
+        print('무엇을 할까요?')
+        morning = int(input('1) 씻는다 2) 물을 마신다 3) 휴대폰을 본다 :  '))
