@@ -25,6 +25,8 @@ if yourAlarm == 1:
         print('')
         print('')
         print('GAME OVER')
+        print('')
+        print('')
     
     elif moreSleep == 2:
         print('')
