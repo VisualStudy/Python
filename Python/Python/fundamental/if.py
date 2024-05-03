@@ -1,6 +1,7 @@
 ﻿print('1. 1반 2. 2반 (단, 나머지는 자율전공반이다.)')
 yourClass = int(input('귀하의 반을 입력하세요 :  '))
 
+
 if yourClass == 1:
     print('귀하의 반은 1반입니다.')
     print('성별을 입력해주세요.')

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fundamental\if.py</StartupFile>
+    <StartupFile>fundamental\if_statement.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,6 +34,7 @@
     <Compile Include="fundamental\data_input_convert.py" />
     <Compile Include="fundamental\data_type.py" />
     <Compile Include="fundamental\if.py" />
+    <Compile Include="fundamental\if_statement.py" />
     <Compile Include="fundamental\multiple_division.py" />
     <Compile Include="fundamental\print.py">
       <Publish>True</Publish>
