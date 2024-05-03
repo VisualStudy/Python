@@ -26,3 +26,22 @@ if yourAlarm == 1:
         print('')
         print('무엇을 할까요?')
         morning = int(input('1) 씻는다 2) 물을 마신다 3) 휴대폰을 본다 :  '))
+        if morning == 1:
+            print('(씻는다)')
+            print('')
+            print('시간이 흘러 오전 5시가 됩니다.')
+            print('')
+            print('무엇을 할까요?')
+            morning1_1 = int(input('1) 밥을 먹는다 2) 옷을 입는다 :  '))
+            
+        elif morning == 2:
+            print('(물을 마신다)')
+            print('')
+            print('이런! 장이 꼬였다...!')
+            print('')
+            print('배가 아파 데굴데굴 구르다가 오전 7시가 되었습니다...')
+            print('밥 먹기는 글렀군요.')
+            print('')
+            print('무엇을 할까요?')
+            morning2_1 = int(input('1) 씻는다 2) 휴대폰을 본다 :  '))
+            
