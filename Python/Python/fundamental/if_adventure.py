@@ -44,6 +44,11 @@ if yourAlarm == 1:
             print('')
             print('무엇을 할까요?')
             morning1_1 = int(input('1) 밥을 먹는다 2) 옷을 입는다 :  '))
+            if morning1_1 == 1:
+                print('')
+                print('(밥을 먹는다)')
+                print('')
+                print('시간이 흘러 오전 6시가 됩니다.')
             
         elif morning == 2:
             print('')
