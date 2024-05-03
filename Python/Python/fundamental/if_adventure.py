@@ -19,6 +19,7 @@ if yourAlarm == 1:
         print('시간이 흐릅니다...')
         print('시간이...?')
         print('저런! 너무 오래 자서 오전 11시가 되었습니다!')
+        print('')
         print('GAME OVER')
     
     elif moreSleep == 2:
