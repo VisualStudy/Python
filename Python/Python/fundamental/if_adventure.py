@@ -6,6 +6,7 @@ print('몇 시에 알람을 맞추시겠습니까?')
 
 yourAlarm = int(input('1) 오전 4시 2) 오전 6시 3) 오후 7시 4) 오전 8시  :   '))
 if yourAlarm == 1:
+    print('')
     print('당신은 너무 일찍 일어났습니다!')
     print('피로도가 쌓였습니다.')
     print('')
@@ -26,11 +27,13 @@ if yourAlarm == 1:
         print('GAME OVER')
     
     elif moreSleep == 2:
+        print('')
         print('일어난 김에 활동하기를 선택하셨습니다.')
         print('')
         print('무엇을 할까요?')
         morning = int(input('1) 씻는다 2) 물을 마신다 3) 휴대폰을 본다 :  '))
         if morning == 1:
+            print('')
             print('(씻는다)')
             print('')
             print('시간이 흘러 오전 5시가 됩니다.')
@@ -39,6 +42,7 @@ if yourAlarm == 1:
             morning1_1 = int(input('1) 밥을 먹는다 2) 옷을 입는다 :  '))
             
         elif morning == 2:
+            print('')
             print('(물을 마신다)')
             print('')
             print('이런! 장이 꼬였다...!')
