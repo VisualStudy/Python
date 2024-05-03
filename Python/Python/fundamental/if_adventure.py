@@ -13,6 +13,7 @@ if yourAlarm == 1:
     moreSleep = int(input('1) YES 2) NO :  '))
     
     if moreSleep == 1:
+        print('')
         print('당신은 다시 잠에 듭니다...')
         print('시간이 흐릅니다...')
         print('시간이 흐릅니다...')
