@@ -3,8 +3,8 @@
 num = int(input('원하는 단을 입력하시오 :  '))
 
 for var in range(1, 10, 1):
-   print(num, end = '')
-   print('*', end = '')
-   print(var, end = '')
-   print('=', end = '')
+   print(num, end = ' ')
+   print('*', end = ' ')
+   print(var, end = ' ')
+   print('=', end = ' ')
    print(num * var)
