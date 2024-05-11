@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fundamental\for.py</StartupFile>
+    <StartupFile>fundamental\for_multiplication_table.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,6 +34,7 @@
     <Compile Include="fundamental\data_input_convert.py" />
     <Compile Include="fundamental\data_type.py" />
     <Compile Include="fundamental\for.py" />
+    <Compile Include="fundamental\for_multiplication_table.py" />
     <Compile Include="fundamental\if.py" />
     <Compile Include="fundamental\if_adventure.py" />
     <Compile Include="fundamental\if_statement.py" />
