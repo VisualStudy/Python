@@ -17,3 +17,5 @@ i = 0
 while i < 5:
     print(fruits)
     i += 1
+    
+print('')
