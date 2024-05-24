@@ -5,3 +5,5 @@ print('')
 
 for name in fruits:
     print(name)
+    
+print('')
