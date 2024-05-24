@@ -7,3 +7,6 @@ for name in fruits:
     print(name)
     
 print('')
+
+for name in enumerate(fruits):
+    print(name)
