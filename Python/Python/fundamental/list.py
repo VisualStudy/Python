@@ -10,3 +10,10 @@ print('')
 
 for name in enumerate(fruits):
     print(name)
+    
+print('')
+
+i = 0
+while i < 5:
+    print(fruits)
+    i = i + 1
