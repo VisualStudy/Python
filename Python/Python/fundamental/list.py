@@ -35,3 +35,8 @@ while i < 5:
     i += 1
     
 print('')
+
+j = 0
+while j < len(fruits):
+    print(fruits[j])
+    j += 1
