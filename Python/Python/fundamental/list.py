@@ -14,6 +14,11 @@ print(complex_fruits)
 
 print('')
 
+fruits_empty = []
+print(fruits_empty)
+
+print('')
+
 for name in fruits:
     print(name)
     
