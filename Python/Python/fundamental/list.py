@@ -40,3 +40,13 @@ i = 0
 while i < len(fruits):
     print(fruits[i])
     i += 1
+    
+print('')
+
+fruits.append('게임')
+print(fruits)
+
+print('')
+
+fruits.insert(0, '과일')
+print(fruits)
