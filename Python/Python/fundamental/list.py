@@ -1,5 +1,16 @@
-﻿fruits = ['딸기', '당근', '수박', '참외', '메론']
+﻿fruit1 = '딸기'
+fruit2 = '당근'
+fruit3 = '수박'
+fruit4 = '참외'
+fruit5 = '메론'
+
+fruits = ['딸기', '당근', '수박', '참외', '메론']
 print(fruits)
+
+print('')
+
+complex_fruits = ['딸기', 'carrot', '123']
+print(complex_fruits)
 
 print('')
 
