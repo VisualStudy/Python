@@ -4,8 +4,7 @@
 greet('J')
 
 def add(a, b):
-    r = a + b
-    return r
+    return a + b
 
 result = add(3, 5)
 print('3 + 5 = ', result)
