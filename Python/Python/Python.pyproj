@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CW\test_list_method_function.py</StartupFile>
+    <StartupFile>list_slicing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -66,6 +66,7 @@
     <Compile Include="if_else_statement.py" />
     <Compile Include="if_statement.py" />
     <Compile Include="lists.py" />
+    <Compile Include="list_slicing.py" />
     <Compile Include="loop.py" />
     <Compile Include="range.py" />
     <Compile Include="Functions\return_value.py" />
