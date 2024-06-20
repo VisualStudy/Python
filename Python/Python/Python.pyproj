@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fundamental\list.py</StartupFile>
+    <StartupFile>CW\test.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,7 @@
     <Compile Include="Algorithms\sum_algorithm_even.py" />
     <Compile Include="Algorithms\sum_algorithm.py" />
     <Compile Include="CW\test.py" />
+    <Compile Include="CW\test_print.py" />
     <Compile Include="function_test.py" />
     <Compile Include="fundamental\assignment.py" />
     <Compile Include="fundamental\bool.py" />
