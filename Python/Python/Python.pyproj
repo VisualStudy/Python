@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CW\test_if.py</StartupFile>
+    <StartupFile>CW\test_repeat.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,6 +30,7 @@
     <Compile Include="CW\test_if.py" />
     <Compile Include="CW\test_list.py" />
     <Compile Include="CW\test_print.py" />
+    <Compile Include="CW\test_repeat.py" />
     <Compile Include="CW\test_str.py" />
     <Compile Include="CW\test_var.py" />
     <Compile Include="function_test.py" />
