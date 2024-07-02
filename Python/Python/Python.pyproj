@@ -81,7 +81,11 @@
     <Folder Include="Algorithms\" />
     <Folder Include="fundamental\" />
     <Folder Include="CW\" />
+    <Folder Include="Arrayss\" />
     <Folder Include="Variables\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Arrayss\Arrays.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
