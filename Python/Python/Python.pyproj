@@ -86,6 +86,8 @@
     <Folder Include="13_If\" />
     <Folder Include="Loop\" />
     <Folder Include="03_HelloWorld\" />
+    <Folder Include="04_Syntax\" />
+    <Folder Include="05_Variable\" />
     <Folder Include="Operators\" />
     <Folder Include="Variables\" />
   </ItemGroup>
