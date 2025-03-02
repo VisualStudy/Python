@@ -90,12 +90,14 @@
     <Folder Include="05_Variable\" />
     <Folder Include="01_Python\" />
     <Folder Include="02_VisualStudio\" />
+    <Folder Include="06_Number\" />
     <Folder Include="Operators\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\Python.txt" />
     <Content Include="02_VisualStudio\파이썬개발환경구축.txt" />
+    <Content Include="06_Number\number.md" />
     <Content Include="Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
     <Content Include="Operators\Operators.txt" />
