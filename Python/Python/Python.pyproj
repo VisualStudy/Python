@@ -95,6 +95,7 @@
     <Folder Include="08_Input\" />
     <Folder Include="09_Operators\" />
     <Folder Include="10_AssignmentIncrement\" />
+    <Folder Include="11_RelationalLogical\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <ItemGroup>
@@ -104,6 +105,7 @@
     <Content Include="07_String\string.md" />
     <Content Include="08_Input\input.md" />
     <Content Include="10_AssignmentIncrement\AssignmentIncrement.md" />
+    <Content Include="11_RelationalLogical\RelationalLogical.md" />
     <Content Include="Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
     <Content Include="09_Operators\Operators.txt" />
