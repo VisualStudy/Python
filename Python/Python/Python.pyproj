@@ -93,7 +93,7 @@
     <Folder Include="06_Number\" />
     <Folder Include="07_String\" />
     <Folder Include="08_Input\" />
-    <Folder Include="Operators\" />
+    <Folder Include="09_Operators\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <ItemGroup>
@@ -104,7 +104,7 @@
     <Content Include="08_Input\input.md" />
     <Content Include="Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
-    <Content Include="Operators\Operators.txt" />
+    <Content Include="09_Operators\Operators.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
