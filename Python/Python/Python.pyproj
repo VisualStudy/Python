@@ -92,6 +92,7 @@
     <Folder Include="02_VisualStudio\" />
     <Folder Include="06_Number\" />
     <Folder Include="07_String\" />
+    <Folder Include="08_Input\" />
     <Folder Include="Operators\" />
     <Folder Include="Variables\" />
   </ItemGroup>
@@ -100,6 +101,7 @@
     <Content Include="02_VisualStudio\파이썬개발환경구축.txt" />
     <Content Include="06_Number\number.md" />
     <Content Include="07_String\string.md" />
+    <Content Include="08_Input\input.md" />
     <Content Include="Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
     <Content Include="Operators\Operators.txt" />
