@@ -70,7 +70,7 @@
     <Compile Include="import_math.py" />
     <Compile Include="lists.py" />
     <Compile Include="list_slicing.py" />
-    <Compile Include="Loop\loop.py" />
+    <Compile Include="15_Loop\loop.py" />
     <Compile Include="range.py" />
     <Compile Include="Functions\return_value.py" />
     <Compile Include="03_HelloWorld\Python.py" />
@@ -84,7 +84,7 @@
     <Folder Include="Arrayss\" />
     <Folder Include="Class\" />
     <Folder Include="13_If\" />
-    <Folder Include="Loop\" />
+    <Folder Include="15_Loop\" />
     <Folder Include="03_HelloWorld\" />
     <Folder Include="04_Syntax\" />
     <Folder Include="05_Variable\" />
@@ -110,6 +110,7 @@
     <Content Include="11_RelationalLogical\RelationalLogical.md" />
     <Content Include="12_BitShiftConditional\ReadMe.txt" />
     <Content Include="14_Switch\python-switch.md" />
+    <Content Include="15_Loop\python-for-loop.md" />
     <Content Include="Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
     <Content Include="09_Operators\Operators.txt" />
