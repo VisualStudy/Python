@@ -98,6 +98,7 @@
     <Folder Include="11_RelationalLogical\" />
     <Folder Include="12_BitShiftConditional\" />
     <Folder Include="14_Switch\" />
+    <Folder Include="16_While\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <ItemGroup>
@@ -111,6 +112,7 @@
     <Content Include="12_BitShiftConditional\ReadMe.txt" />
     <Content Include="14_Switch\python-switch.md" />
     <Content Include="15_Loop\python-for-loop.md" />
+    <Content Include="16_While\python-while.md" />
     <Content Include="Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
     <Content Include="09_Operators\Operators.txt" />
