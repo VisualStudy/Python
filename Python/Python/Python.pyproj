@@ -81,7 +81,7 @@
     <Folder Include="Algorithms\" />
     <Folder Include="fundamental\" />
     <Folder Include="CW\" />
-    <Folder Include="Arrayss\" />
+    <Folder Include="18_Arrayss\" />
     <Folder Include="Class\" />
     <Folder Include="13_If\" />
     <Folder Include="15_Loop\" />
@@ -115,7 +115,7 @@
     <Content Include="15_Loop\python-for-loop.md" />
     <Content Include="16_While\python-while.md" />
     <Content Include="17_Break\ReadMe.txt" />
-    <Content Include="Arrayss\Arrays.txt" />
+    <Content Include="18_Arrayss\Arrays.txt" />
     <Content Include="Class\Class.txt" />
     <Content Include="09_Operators\Operators.txt" />
   </ItemGroup>
