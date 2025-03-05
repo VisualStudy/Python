@@ -22,10 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Algorithms\continuous_sum.py" />
-    <Compile Include="Algorithms\count_algorithm.py" />
-    <Compile Include="Algorithms\sum_algorithm_even.py" />
-    <Compile Include="Algorithms\sum_algorithm.py" />
+    <Compile Include="31_Algorithms\continuous_sum.py" />
+    <Compile Include="31_Algorithms\count_algorithm.py" />
+    <Compile Include="31_Algorithms\sum_algorithm_even.py" />
+    <Compile Include="31_Algorithms\sum_algorithm.py" />
     <Compile Include="CW\test.py" />
     <Compile Include="CW\test_function.py" />
     <Compile Include="CW\test_if.py" />
@@ -78,7 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="19_Functions\" />
-    <Folder Include="Algorithms\" />
+    <Folder Include="31_Algorithms\" />
     <Folder Include="fundamental\" />
     <Folder Include="CW\" />
     <Folder Include="18_Arrayss\" />
