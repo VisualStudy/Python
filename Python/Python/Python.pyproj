@@ -37,7 +37,7 @@
     <Compile Include="CW\test_repeat.py" />
     <Compile Include="CW\test_str.py" />
     <Compile Include="CW\test_var.py" />
-    <Compile Include="function_test.py" />
+    <Compile Include="19_Functions\function_test.py" />
     <Compile Include="fundamental\assignment.py" />
     <Compile Include="fundamental\bool.py" />
     <Compile Include="fundamental\comparison.py" />
@@ -63,7 +63,7 @@
     <Compile Include="fundamental\variable_data_repeat.py" />
     <Compile Include="fundamental\variable_reset.py" />
     <Compile Include="fundamental\while.py" />
-    <Compile Include="global_function.py" />
+    <Compile Include="19_Functions\global_function.py" />
     <Compile Include="global_function_keyword.py" />
     <Compile Include="13_If\if_else_statement.py" />
     <Compile Include="13_If\if_statement.py" />
