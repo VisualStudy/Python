@@ -102,6 +102,7 @@
     <Folder Include="17_Break\" />
     <Folder Include="20_Exam\" />
     <Folder Include="21_API\" />
+    <Folder Include="23_Enum\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <ItemGroup>
@@ -120,6 +121,7 @@
     <Content Include="18_Arrayss\Arrays.txt" />
     <Content Include="20_Exam\python-interactive.md" />
     <Content Include="21_API\python-api.md" />
+    <Content Include="23_Enum\enumeration.md" />
     <Content Include="Class\Class.txt" />
     <Content Include="09_Operators\Operators.txt" />
   </ItemGroup>
