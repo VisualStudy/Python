@@ -6,3 +6,6 @@ print("만약 이어 붙이기를 원한다면 end =을 이용하거나 콤마(,)나 + 더하기 연산자�
 raba = "rabarata istaferium"
 
 print(raba[2:8:2][::-1])
+
+raba.split()
+print(raba)
