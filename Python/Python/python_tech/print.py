@@ -15,3 +15,5 @@ raba_list = [1, 2, 3, 4], [5, 6, 7, 8]
 for data in raba_list:
     for num in data:
         print(num)
+
+print('무례하긴, 순회야')
