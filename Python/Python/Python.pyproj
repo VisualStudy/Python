@@ -76,6 +76,7 @@
     <Compile Include="19_Functions\return_value.py" />
     <Compile Include="03_HelloWorld\Python.py" />
     <Compile Include="square_number.py" />
+    <Compile Include="turtle\turtle.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="19_Functions\" />
@@ -105,6 +106,7 @@
     <Folder Include="21_API\" />
     <Folder Include="23_Enum\" />
     <Folder Include="24_Class\" />
+    <Folder Include="turtle\" />
     <Folder Include="python_tech\" />
     <Folder Include="Variables\" />
   </ItemGroup>
