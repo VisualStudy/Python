@@ -1,3 +1,3 @@
 import turtle
 
-t = turtle.Turtle
+t = turtle.Turtle()
