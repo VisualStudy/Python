@@ -2,6 +2,7 @@ import turtle
 
 t = turtle.Turtle()
 t.shape("turtle")
+t.color
 
 d = 50
 r = 90
