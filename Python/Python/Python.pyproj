@@ -71,10 +71,12 @@
     <Compile Include="lists.py" />
     <Compile Include="list_slicing.py" />
     <Compile Include="15_Loop\loop.py" />
+    <Compile Include="python_tech\print.py" />
     <Compile Include="range.py" />
     <Compile Include="19_Functions\return_value.py" />
     <Compile Include="03_HelloWorld\Python.py" />
     <Compile Include="square_number.py" />
+    <Compile Include="turtle\turtle.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="19_Functions\" />
@@ -104,6 +106,8 @@
     <Folder Include="21_API\" />
     <Folder Include="23_Enum\" />
     <Folder Include="24_Class\" />
+    <Folder Include="turtle\" />
+    <Folder Include="python_tech\" />
     <Folder Include="Variables\" />
   </ItemGroup>
   <ItemGroup>
