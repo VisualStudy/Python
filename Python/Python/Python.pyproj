@@ -107,6 +107,7 @@
     <Folder Include="23_Enum\" />
     <Folder Include="24_Class\" />
     <Folder Include="25_String\" />
+    <Folder Include="26_Exception\" />
     <Folder Include="turtle\" />
     <Folder Include="python_tech\" />
     <Folder Include="Variables\" />
@@ -130,6 +131,7 @@
     <Content Include="23_Enum\enumeration.md" />
     <Content Include="24_Class\python-class.md" />
     <Content Include="25_String\String.md" />
+    <Content Include="26_Exception\Exception.md" />
     <Content Include="31_Algorithms\Algorithms.md" />
     <Content Include="Class\Class.txt" />
     <Content Include="09_Operators\Operators.txt" />
