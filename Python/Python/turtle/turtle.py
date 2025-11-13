@@ -17,7 +17,7 @@ for i in range(4):
 # t.right(90)
 # t.forward(50)
 # t.right(90)
-# t.forward(50)  ;;?
+# t.forward(50)  ;세미콜론 x
 # t.right(90)
 
 turtle.done
