@@ -26,5 +26,8 @@ print(fruit[0])
 print(fruit[-1])
 print(fruit[3])
 
+fruit[3] = "strawberry"
+print(fruit[3])
+
 
 turtle.done
