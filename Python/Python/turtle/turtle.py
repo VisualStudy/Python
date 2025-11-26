@@ -22,5 +22,9 @@ for i in range(4):
 # t.right(90)
 
 fruit = ['apple', 'banana', "kiwi", "pear"]
+print(fruit[0])
+print(fruit[-1])
+print(fruit[3])
+
 
 turtle.done
