@@ -21,4 +21,6 @@ for i in range(4):
 # t.forward(50)  ;세미콜론 x
 # t.right(90)
 
+fruit = ['apple', 'banana', "kiwi", "pear"]
+
 turtle.done
