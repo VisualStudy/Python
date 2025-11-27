@@ -29,4 +29,8 @@ print(fruit[3])
 fruit[3] = "strawberry"
 print(fruit[3])
 
+t = input('°ª ÀÔ·Â')
+int(t)
+print(t)
+
 turtle.done
