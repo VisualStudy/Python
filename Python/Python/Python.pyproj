@@ -78,6 +78,7 @@
     <Compile Include="19_Functions\return_value.py" />
     <Compile Include="03_HelloWorld\Python.py" />
     <Compile Include="square_number.py" />
+    <Compile Include="turtlePackage.py" />
     <Compile Include="turtle\turtle.py" />
     <Compile Include="var.py" />
   </ItemGroup>
