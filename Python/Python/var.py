@@ -3,3 +3,9 @@ b = 20
 c = 30
 str = "Hello"
 word = 'World'
+
+print(a)
+print(b)
+print(c)
+print(str)
+print(word)
