@@ -81,6 +81,7 @@
     <Compile Include="turtleDrawRect.py" />
     <Compile Include="turtlePackage.py" />
     <Compile Include="turtleShape.py" />
+    <Compile Include="turtleWithFunction.py" />
     <Compile Include="turtle\turtle.py" />
     <Compile Include="var.py" />
   </ItemGroup>
