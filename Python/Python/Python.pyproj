@@ -70,6 +70,7 @@
     <Compile Include="import_math.py">
       <Publish>False</Publish>
     </Compile>
+    <Compile Include="list.py" />
     <Compile Include="lists.py" />
     <Compile Include="list_slicing.py" />
     <Compile Include="15_Loop\loop.py" />
