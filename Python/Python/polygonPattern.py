@@ -13,5 +13,7 @@ def pg(n, d):
 for i in range(6):
     pg(n, d)
     t.right(360 / 6)
+
+print(f"rabarata{n}")
     
 turtle.done()
