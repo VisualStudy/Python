@@ -75,6 +75,7 @@
     <Compile Include="lists.py" />
     <Compile Include="list_slicing.py" />
     <Compile Include="15_Loop\loop.py" />
+    <Compile Include="percent_operator.py" />
     <Compile Include="polygon.py" />
     <Compile Include="polygonPattern.py" />
     <Compile Include="python_tech\print.py" />
