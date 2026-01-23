@@ -79,6 +79,7 @@
     <Compile Include="polygon.py" />
     <Compile Include="polygonPattern.py" />
     <Compile Include="python_tech\print.py" />
+    <Compile Include="python_vs_c.py" />
     <Compile Include="range.py" />
     <Compile Include="19_Functions\return_value.py" />
     <Compile Include="03_HelloWorld\Python.py" />
