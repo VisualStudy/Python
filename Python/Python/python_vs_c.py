@@ -5,3 +5,6 @@ print(arr)
 arr[1] = 100
 
 print(f"change result: {arr}")
+print("")
+print()
+print("°á°ú")
