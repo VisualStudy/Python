@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87d9146a-27c1-48c2-8ca9-ef0a1ec2c6d6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>import_math.py</StartupFile>
+    <StartupFile>13_If\basic_if_example.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="13_If\basic_if_example.py" />
     <Compile Include="31_Algorithms\continuous_sum.py" />
     <Compile Include="31_Algorithms\count_algorithm.py" />
     <Compile Include="31_Algorithms\sum_algorithm_even.py" />
