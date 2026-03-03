@@ -10,7 +10,13 @@
 # b = int(input("두 번째 정수: "))
 # print("합은",a + b,"입니다.")
 
+# a = int(input("첫 번째 정수: "))
+# b = int(input("두 번째 정수: "))
+# sum = a + b
+# print("합은 " + str(sum) + "입니다.")
+
 a = int(input("첫 번째 정수: "))
 b = int(input("두 번째 정수: "))
 sum = a + b
-print("합은 " + str(sum) + "입니다.")
+
+print(f"합은 {sum}입니다.")
