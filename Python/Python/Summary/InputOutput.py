@@ -19,4 +19,4 @@ a = int(input("첫 번째 정수: "))
 b = int(input("두 번째 정수: "))
 sum = a + b
 
-print(f"합은 {sum}입니다.")
+print(f"합은 {sum}입니다. \n그리고 {a}와 {b}의 덧셈 결과입니다.")
